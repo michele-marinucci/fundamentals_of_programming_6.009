@@ -3,6 +3,7 @@
  
  ## Summary
  Lab 0 - Audio Processing
+ 
  Lab 1 - Image Processing
  Lab 2 - Image Processing, Part II
  Lab 3 - Graph Search, BFS Algorithm
